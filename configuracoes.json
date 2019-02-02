@@ -1,0 +1,8 @@
+{
+    "configuracoes":
+    {
+        "serial": "123456789123",
+        "tipo": "medidor",
+        "setor": "montagem smd"
+    }
+}
